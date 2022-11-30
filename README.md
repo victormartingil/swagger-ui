@@ -35,7 +35,7 @@ public class SwaggerConfig {
 
 ## STEP 4
 **Check Swagger UI website**
-Run your application and acces the following url:
+Run your application and access the following url:
 ```
 host:port/swagger-ui/index.html
 http://localhost:8080/swagger-ui/index.html
